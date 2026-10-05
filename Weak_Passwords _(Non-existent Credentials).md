@@ -1,4 +1,4 @@
-# Weak Passwords:
+## Weak Passwords:
 
 I accessed the database to find the list of users.
 
