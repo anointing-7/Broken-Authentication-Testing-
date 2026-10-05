@@ -1,6 +1,7 @@
 ## Session Management - Strong Sessions:
 
 This vulnerability allowed me to acquire one user’s session ID and use it for another (hypothetical) user.
+
 I opened the first browser (User 1/attacker)
 
 <img width="975" height="494" alt="image" src="https://github.com/user-attachments/assets/ac1b0ebb-4df8-49cd-a312-c8be0aa69aaf" />
