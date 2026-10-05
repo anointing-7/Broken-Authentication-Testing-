@@ -1,3 +1,5 @@
+# Weak Passwords:
+
 I accessed the database to find the list of users.
 
 <img width="975" height="307" alt="image" src="https://github.com/user-attachments/assets/bb6ce1a0-4eba-4fed-810a-47950b141e23" />
