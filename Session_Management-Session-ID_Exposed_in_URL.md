@@ -14,7 +14,7 @@ I copied the URL, opened another browser tab and pasted the copied URL. I was gr
 <img width="515" height="325" alt="Capture (5)" src="https://github.com/user-attachments/assets/f08fc0a2-f8f6-47de-a774-b423b00164e9" />
 
 ### Severity: Medium
-## Mitigation Strategies:
+### Mitigation Strategies:
 1.	Place session tokens in a cookie (HTTP Only, Secure, Same Site) or an Authorization header — never in the URL.
 2.	Invalidate the session ID immediately if one is ever detected in a URL, log, or Referrer header.
 3.	Set a strong Referrer-Policy so URLs (and any tokens in them) aren't leaked to third-party page resources.
