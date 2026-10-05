@@ -23,7 +23,6 @@ Interestingly, the ‘test’ username and password do not exist in the database
 
 <img width="1071" height="652" alt="image" src="https://github.com/user-attachments/assets/87667547-4465-4d9d-bcb5-9659685fc364" />
 
-
 ### Severity: Critical
 
 ## Mitigation Strategies:
