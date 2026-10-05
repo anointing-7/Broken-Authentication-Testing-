@@ -21,7 +21,9 @@ Interestingly, the ‘test’ username and password do not exist in the database
 -	They may be able to perform actions as an authenticated user, such as modifying records, submitting transactions, or changing account information.
 -	Actions performed using a nonexistent account may make it difficult to reliably associate activity with a legitimate user.
 
-  <img width="532" height="361" alt="Capture (2)" src="https://github.com/user-attachments/assets/491d17d9-92b1-4fdd-b463-3ac3496b4d5a" />
+<img width="486" height="321" alt="Capture(3)" src="https://github.com/user-attachments/assets/45dc802d-7d00-49df-9c25-adc0d7a9ab51" />
+
+### Severity: Critical
 
 ## Mitigation Strategies:
 1.	Perform server-side credential validation.
